@@ -1,0 +1,9 @@
+php_value max_execution_time 600
+
+
+
+# Do not remove this line, otherwise mod_rewrite rules will stop workingRewriteBase 
+php_value max_execution_time 600
+# BEGIN WordPress
+
+# END WordPress
